@@ -67,7 +67,7 @@ void loop() {
 ```
 
 <h1>Alıcı devresi örneği</h1>
-<img src="/goruntu_video/alici.png" alt="Simply Easy Learning" title="Analog Saati">
+<img src="/goruntu_video/alici.png" alt="Alıcı" title="Alıcı">
 
 <h1>Alıcı kodu</h1>
 
@@ -164,7 +164,8 @@ void loop(void){
 }
 
 ```
-
+<h1>Mobil uygulama Arayüzü</h1>
+<img src="/goruntu_video/blynk.jpeg" alt="Mobil uygulama Arayüzü" title="Mobil uygulama Arayüzü">
 <h1>Gerekli Kütüphane</h1>
 Bu kütüphaneler indirilip Arduino->libraries dosyasında yerleştirlir.
 <ul><li><h2> <a href="https://github.com/nhatuan84/RF24">RF24 Kütüphanesi</a></h2></li>
