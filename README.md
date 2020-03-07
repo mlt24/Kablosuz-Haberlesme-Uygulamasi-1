@@ -168,8 +168,8 @@ void loop(void){
 <img src="/goruntu_video/blynk.jpeg" alt="Mobil uygulama Arayüzü" title="Mobil uygulama Arayüzü">
 <h1>Gerekli Kütüphane</h1>
 Bu kütüphaneler indirilip Arduino->libraries dosyasında yerleştirlir.
-<ul><li><h2> <a href="https://github.com/nhatuan84/RF24">RF24 Kütüphanesi</a></h2></li>
-<li><h2><a href="https://github.com/blynkkk/blynk-library">Blynk Kütüphanesi</a></h2></li>
+<ul><li><h2> <a href="https://github.com/nhatuan84/RF24">RF24  Kütüphanesi</a></h2></li>
+<li><h2><a href="https://github.com/blynkkk/blynk-library">Blynk  Kütüphanesi</a></h2></li>
 <li><h2><a href="https://github.com/adidax/dht11">DHT11 Kütüphanesi</a></h2></li>
 </ul>
 
