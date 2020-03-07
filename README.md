@@ -10,9 +10,9 @@ veri izleme ve kontrol sistemi gerçekleştirilmiştir.
 <li>
 <h2><a href="https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf">ESP32-WROOM-32 Wifi ve Bluetooth Geliştirici Modülü</a></h2>
 </li>
-<li><h2><a href="https://maker.robotistan.com/arduino-projeleri-egitimi/">Arduino Uno</a></h2></li>
-<li><h2><a href="https://gelecegiyazanlar.turkcell.com.tr/konu/arduino/egitim/arduino-401/arduino-ile-kablosuz-haberlesme">nrf24l01</a></h2></li>
-<li><h2><a href="https://www.robotistan.com/dht11-isi-ve-nem-sensoru-kart">DHT11</a></h2></li>
+<li><h2><a href="https://maker.robotistan.com/arduino-projeleri-egitimi/">Arduino Uno Kartı</a></h2></li>
+<li><h2><a href="https://gelecegiyazanlar.turkcell.com.tr/konu/arduino/egitim/arduino-401/arduino-ile-kablosuz-haberlesme">nrf24l01 Alıcı-Verici Modülü</a></h2></li>
+<li><h2><a href="https://www.robotistan.com/dht11-isi-ve-nem-sensoru-kart">DHT11 Nem ve Sıcaklık Sensörü</a></h2></li>
 <li><h2><a href="http://www.esp32learning.com/code/esp32-and-rgb-led-example.php">RGB led</a></h2></li>
 <li><h2><a href="https://docs.blynk.cc/">Blynk IOS/Android arayüz geliştiricisi</a></h2></li>
 </ul>
