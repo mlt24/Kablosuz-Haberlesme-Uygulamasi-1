@@ -28,7 +28,7 @@ bulunan rgb led'in renkleri ayarlamaktır.</p>
 <img src="/goruntu_video/verici.png" alt="Verici" title="Verici">
 <h1>Verici kodu</h1>
 
-```arduino
+```cpp
 
 #include  <SPI.h>                //SPI bir senkron seri haberleşme protokolüdür 
 #include "nRF24L01.h"
@@ -71,7 +71,7 @@ void loop() {
 
 <h1>Alıcı kodu</h1>
 
-```arduino
+```cpp
 
 #define BLYNK_PRINT Serial
 #include <WiFi.h>
@@ -170,6 +170,6 @@ void loop(void){
 Bu kütüphaneler indirilip Arduino->libraries dosyasında yerleştirlir.
 <ul><li><h2> <a href="https://github.com/nhatuan84/RF24">RF24 Kütüphanesi</a></h2></li>
 <li><h2><a href="https://github.com/blynkkk/blynk-library">Blynk Kütüphanesi</a></h2></li>
-<li><h2><a href="https://github.com/adidax/dht11">DHT11</a></h2></li>
+<li><h2><a href="https://github.com/adidax/dht11">DHT11 Kütüphanesi</a></h2></li>
 </ul>
 
