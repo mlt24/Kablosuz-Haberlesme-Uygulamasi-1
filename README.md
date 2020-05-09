@@ -16,6 +16,20 @@ veri izleme ve kontrol sistemi gerçekleştirilmiştir.
 <li><h2><a href="http://www.esp32learning.com/code/esp32-and-rgb-led-example.php">RGB led</a></h2></li>
 <li><h2><a href="https://docs.blynk.cc/">Blynk IOS/Android arayüz geliştiricisi</a></h2></li>
 </ul>
+<h1>NRF24l01 Alıcı-Verici Modülü Özellikleri</h1>
+<ul>
+  <li>2.4GHz bandında yayın yapabilir.</li>
+  <li>126 RF Channels.</li>
+  <li>250KBps, 1MBps ve 2MBps gibi hızlarda haberleşme hızı seçilebilir.</li>
+  <li>Gelişmiş ShockBurst™ hızlandırma protokolünü desteklemektedir.</li>
+  <li>Ultra düşük güç tüketimi</li>
+  <li>IO Portları Çalışma Voltajı:0-3.3V/5V</li>
+  <li>Verici Sinyal Gücü: +7 dB</li>
+  <li>Alıcı Hassasiyeti ≤ 90dB</li>
+  <li>Haberleşme Mesafesi: Açık Alanda 250m</li>
+  <li>Boyutları: 15x29mm</li>
+</ul>
+
 <h1>Amaç</h1>
 <p>Bu uygulamanın amacı, Arduino ,nrf24l01(verici) modülü ve dht11 sıcaklık <br>
 ve nem sensöründen oluşan verici devresinden eşzamanlı  olarak  ortamdaki <br>
